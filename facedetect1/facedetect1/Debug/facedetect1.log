@@ -1,0 +1,9 @@
+﻿Build started 2015/9/20 13:02:39.
+     1>Project "D:\EC500\projecttest1\OpencvTest\facedetect1\facedetect1\facedetect1.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         facedetect1.vcxproj -> D:\EC500\projecttest1\OpencvTest\facedetect1\Debug\facedetect1.exe
+     1>Done Building Project "D:\EC500\projecttest1\OpencvTest\facedetect1\facedetect1\facedetect1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.03
